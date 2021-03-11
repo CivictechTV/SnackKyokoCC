@@ -164,7 +164,7 @@ Mr. Seki, President of Code for Japan
 
 42
 01:01:49,199 --> 01:01:50,699
-And Geolipublic.
+And Georepublic.
 
 43
 01:01:50,699 --> 01:01:52,900
